@@ -2,6 +2,9 @@ Final Project ReadMe
 Timmy Li
 Dangerous
 
+To get the app working again, go to Chicago Crime portal and register for your own app token.
+Then go and place that app token in CrimeUtilities.swift
+
 Testing:
 To test just build the app in Xcode as usual. You may have to use the simulator to simulate a location in Chicago. You can use Lat: 41.786505 and Long: -87.606142 for as an example.
 

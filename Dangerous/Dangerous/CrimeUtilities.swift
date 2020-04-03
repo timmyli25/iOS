@@ -18,7 +18,9 @@ struct Crime: Codable{
 class CrimeClient{
     let limit = 1000
     // My app token. Will be deleted after grades are submitted.
-    let apptoken = "5SXdw1AGG4VRekJ0bsaBFMfyx"
+    // To get this working, go to Chicago crime database and make your
+    // own apptoken.
+    let apptoken = "Your app token here."
     func fetchCrime(completion: @escaping ([Crime]?, Error?)->Void){
         let url = URL(string: "https://data.cityofchicago.org/resource/ijzp-q8t2.json?$$app_token=\(self.apptoken)&$limit=\(self.limit)")!
         let task = URLSession.shared.dataTask(with: url) { data, _, error in
