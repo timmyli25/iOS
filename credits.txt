@@ -1,0 +1,45 @@
+https://www.google.com/search?q=fire+image&tbm=isch&ved=2ahUKEwjGk-bNxpboAhURY60KHYjmDTMQ2-cCegQIABAA&oq=fire+image&gs_l=img.3..0l10.14507.20137..20283...0.0..0.91.645.10......0....1..gws-wiz-img.......35i39j0i67.x8n5Iu6DmqQ&ei=uwNrXobKNZHGtQWIzbeYAw&rlz=1C5CHFA_enUS865US865#imgrc=FkwSQeezSmuo1M
+
+key id: 1guafwqzba331mva0egre4ecu
+
+key secret: ue256dxh0tkdbptjywa5wakmcrmntthlxn2dxqjdqbeyouuha
+
+app token: 5SXdw1AGG4VRekJ0bsaBFMfyx
+
+
+{"id":"11999334","case_number":"JD173848","date":"2020-03-04T10:00:00.000","block":"051XX W BELMONT AVE","iucr":"0460","primary_type":"BATTERY","description":"SIMPLE","location_description":"GOVERNMENT BUILDING/PROPERTY","arrest":false,"domestic":false,"beat":"1634","district":"016","ward":"31","community_area":"15","fbi_code":"08B","x_coordinate":"1141612","y_coordinate":"1920791","year":"2020","updated_on":"2020-03-11T15:50:54.000","latitude":"41.938722006","longitude":"-87.754953649","location":{"latitude":"41.938722006","longitude":"-87.754953649","human_address":"{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"}
+
+https://stackoverflow.com/questions/25449469/show-current-location-and-update-location-in-mkmapview-in-swift
+
+//        let identifier = "Marker"
+//        var view: MarkerView
+//        if let dequeuedView = mapView.dequeueReusableAnnotationView(withIdentifier: identifier) as? MarkerView {
+//          dequeuedView.annotation = annotation
+//          view = dequeuedView
+//        } else {
+//          view = MarkerView(annotation: annotation, reuseIdentifier: identifier)
+//          view.canShowCallout = true
+//          view.calloutOffset = CGPoint(x: -5, y: 5)
+//        }
+//        if(annotation.name! == "User"){
+//            view.markerTintColor = .systemBlue
+//            view.glyphImage = UIImage(systemName: "star.fill")
+//            view.displayPriority = .defaultHigh
+//            view.clusteringIdentifier = nil
+//        } else {
+//            view.glyphImage = UIImage(named: "fire.png")
+//            view.clusteringIdentifier = "Crime"
+//            view.displayPriority = .defaultLow
+//        }
+//        return view
+
+https://programmingwithswift.com/how-to-send-local-notification-with-swift-5/
+
+https://www.hackingwithswift.com/example-code/uikit/how-to-use-uiactivityindicatorview-to-show-a-spinner-when-work-is-happening
+
+https://stackoverflow.com/questions/46453789/swift-4-settings-bundle-get-defaults/46537668
+
+https://www.gpxgenerator.com/
+
+app icons
+https://appicon.co/
